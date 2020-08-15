@@ -1,0 +1,6 @@
+{
+  "short_name": "FakeID",
+  "name": "Fake identity generator",
+  "start_url": "./index.html",
+  "display": "standalone",
+}
