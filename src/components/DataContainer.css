@@ -1,0 +1,8 @@
+.data-container {
+  margin-top: 4em !important;
+}
+
+.data-container__wrapper {
+  max-width: 350px;
+  width: 100%;
+}

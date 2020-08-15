@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heading renders correctly 1`] = `
+<div
+  className="ui inverted segment heading"
+>
+  <div
+    className="ui centered middle aligned grid heading__wrapper"
+  >
+    <div
+      className="column"
+    >
+      <h1
+        className="ui inverted center aligned header heading__slogan"
+      >
+        FakeID
+      </h1>
+      <h2
+        className="ui inverted center aligned header heading__description"
+      >
+        Generate fake identites easily.
+      </h2>
+    </div>
+  </div>
+</div>
+`;
